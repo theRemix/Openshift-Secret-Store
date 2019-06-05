@@ -14,6 +14,10 @@ choose "Select from Project"
 
 ![browse-catalog](https://user-images.githubusercontent.com/132562/58980910-27866f80-8786-11e9-902c-75872596eb05.png)
 
+or navigate to your project's catalog
+
+https://127.0.0.1:8443/console/project/myproject/catalog
+
 
 ## Screenshots
 
